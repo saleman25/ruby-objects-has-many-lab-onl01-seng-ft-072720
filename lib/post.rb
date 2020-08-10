@@ -11,7 +11,7 @@ def initialize(name)
 end 
   
 def title 
-  @title = title
+  @title 
 end 
 
 

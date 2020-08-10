@@ -10,11 +10,6 @@ def initialize(name)
   save
 end 
   
-def title 
-  @title 
-end 
-
-
 def save 
   @@all << self 
 end 
